@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Induwara
 
 🎓 I’m a Computer Science Undergraduate from University of Kelaniya - Sri Lanka  
-🌱 I’m currently learning Java, Spring Boot & React  
+🌱 I’m currently learning Machine Learning, Data Visualization and Analysis, Java, Spring Boot & React  
 📫 How to reach me: induwara43@gmail.com  
 😄 Pronouns: He/Him  
 
