@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,nodejs,express,react,mongodb,mysql)](https://skillicons.dev)
 
 ## My Stats 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwara43&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwara43&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Find me on, 🔭  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayawinath-induwara-a31141214/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/induwara43_/)
