@@ -6,7 +6,11 @@
 😄 Pronouns: He/Him  
 
 ## Languages & Tools 🛠  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,nodejs,express,react,mongodb,mysql,py,sklearn)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,java,spring)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=springboot)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=xampp,oracle)  
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,jupyter,scikitlearn,numpy)
 
 ## My Stats 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwara43&hide_progress=true&theme=transparent&size_weight=0&count_weight=1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
